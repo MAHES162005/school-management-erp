@@ -1,0 +1,46 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+node_modules/
+/vendor/
+
+# Configuration
+config.php
+config.local.php
+.env
+.env.local
+
+# Uploads and temporary files
+uploads/
+temp/
+*.log
+logs/
+
+# Database
+*.sql
+*.backup
+*.bak
+db_backup/
+
+# Build
+dist/
+build/
+
+# OS
+Thumbs.db
+.DS_Store
+*.exe
+
+# Session files
+sessions/
+*.sess
+
+# Cache
+.cache/
+*.cache
